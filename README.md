@@ -1,5 +1,3 @@
-import React, { useState, useEffect } from 'react';
-
 // Komponen utama aplikasi kuiz
 function App() {
   // Set soalan kuiz awal berkaitan Faraid
