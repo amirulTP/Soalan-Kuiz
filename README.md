@@ -559,5 +559,3 @@ function ResultScreen({ score, totalQuestions, onRestart }) {
     </div>
   );
 }
-
-export default App; // Eksport komponen App sebagai lalai
